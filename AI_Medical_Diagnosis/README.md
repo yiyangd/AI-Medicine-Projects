@@ -1,7 +1,7 @@
 ### WEEK1 
 
 Applications of Computer Vision to Medical Diagnosis
-- Lab01: Medical Data Exporation & Image Pre-Prodessing
+- Lab01: Chest x-ray Data Exporation & Image Pre-Processing
 
 Methods to handle class imbalance and small training sets  
 - Lab02: Counting labels and weighted loss function
