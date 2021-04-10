@@ -2,6 +2,7 @@
 
 Applications of Computer Vision to Medical Diagnosis
 - Lab01: Chest x-ray Data Exporation & Image Pre-Processing
+<img src="xray-image.png" alt="U-net Image" width="300" align="middle"/>
 
 Methods to handle class imbalance and small training sets  
 - Lab02: Counting labels and weighted loss function
