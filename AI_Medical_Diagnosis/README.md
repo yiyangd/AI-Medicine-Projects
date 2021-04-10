@@ -9,7 +9,7 @@ Methods to handle class imbalance and small training sets
 - Lab03: DenseNet
 
 Model Check
-- Lab04：Patient Overlap
+- Lab04：Patient Overlap and Data Leakage
 
 #### Project 1 - Chest X-Ray Medical Diagnosis with DL
 
