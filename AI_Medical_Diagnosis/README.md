@@ -17,7 +17,7 @@ Model Check
 #### Project 2 - Evaluation of Diagnostic Models
 
 ### Week3
-Lab 05 - Explore MRI Data
-Lab 06 - Get a Sub Section
-Lab 07 - Implement U-Net
+- Lab 05 - Explore MRI Data
+- Lab 06 - Get a Sub Section
+- Lab 07 - Implement U-Net
 #### Project 3 - Brain Tumor Auto-Segmentation for MRI
